@@ -1,0 +1,17 @@
+# Environment files
+.env
+.env.local
+
+# Docker volumes data (if extracted)
+data/
+mysql-data/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
