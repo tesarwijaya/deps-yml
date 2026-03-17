@@ -5,6 +5,8 @@
 # Docker volumes data (if extracted)
 data/
 mysql-data/
+grafana-data/
+prometheus-data/
 
 # IDE files
 .vscode/
